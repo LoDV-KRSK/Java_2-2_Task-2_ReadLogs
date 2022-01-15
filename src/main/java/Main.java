@@ -9,4 +9,3 @@ public class Main {
     System.out.println(service.calculate(amount,registered));
   }
 }
-
